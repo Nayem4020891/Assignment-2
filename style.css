@@ -1,0 +1,153 @@
+ 
+  #font-page{
+      background-color: rgb(110, 146, 253);
+ }
+ 
+ .Home li a {
+    text-decoration: none;
+    color: rgb(10, 7, 1);
+  
+   
+ }
+ .Home li{
+    display: inline-block; 
+    padding-right: 25px;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 30px;
+   
+  
+ }
+ .Home li button{
+    font-size: 18px;
+    margin-left: 550px;
+    background-color:tomato;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+ }
+ .Home li button:hover{
+    background-color: orange;
+ }
+ .section2{
+    padding-left: 40px;
+    margin-top: 70px;
+ 
+ }
+ .section2 h1{
+    font-size: 70px;
+    padding: 18px;
+    margin-top: 30px;
+    
+   
+ }
+ .section2 h1:hover{
+    color: orange;
+ }
+ .section2 h1 span{
+    color: orange;
+ }
+ .section2 button{
+    margin-left: 30px;
+    background-color: tomato;
+    margin-top: 50px;
+    border-radius: 10px;
+ }
+ .section2 button:hover{
+ background-color: orange;
+ }
+ .section2 button a {
+    font-size: 18px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+       
+ }
+ .section2 img{
+    height: 600px;
+    margin-left: 600px;
+    margin-top: -500px;
+ }
+ 
+ .article > div{
+    background-color: yellowgreen;
+    height: 430px;
+    width: 310px;
+    margin-left: 140px;
+    margin-top: 45px;
+    float: left;
+    
+ } 
+ 
+ 
+ .article  img{
+     height: 200px;
+     margin-top: 15px;
+     margin-left: 40px;
+ }
+ 
+ .article  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 33px;
+ }
+ .article  p{
+    height: 190px;
+    margin-left: 7px;
+    text-align: center
+ }
+ footer   {
+    background-color: cadetblue;
+    margin-top: 290vh;
+    height: 95vh;
+    
+ }    
+ footer  img{
+    height: 480px;
+    width:55% ;
+    margin-left: 650px;
+    margin-top: -420px;
+ }
+ 
+ footer div h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: 30px;
+   padding-top: 110px;
+   color: rgb(235, 194, 14);
+    
+ }
+ 
+ 
+ footer div p{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 30px;
+ }
+ footer button{
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(226, 183, 72);
+    
+ }
+ footer button a{
+    text-decoration: none;
+ }
+ .logo {
+    height: 80%;
+ }
+ .logo img {
+    margin-top: 100px;
+    height: 180px;
+    width: 350px;
+    margin-left: 550px;
+   margin-top: 180px;
+ }
+ .icon {
+    text-align: center;
+ }
+ h3{
+    text-align: center;
+ }
